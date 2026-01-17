@@ -86,18 +86,6 @@ menu:
       weight: 2
       params:
         icon: categories
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 3
-      params:
-        icon: archives
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 4
-      params:
-        icon: search
 
   social:
     - identifier: github
